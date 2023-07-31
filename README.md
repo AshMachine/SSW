@@ -1,2 +1,2 @@
 # SSW
-All code from UW School of Social Work Written by MH
+All code the code, Written by MH
